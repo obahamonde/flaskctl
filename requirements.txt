@@ -1,0 +1,5 @@
+flask
+requests
+faunadb
+pydantic[email,dotenv]
+gunicorn
